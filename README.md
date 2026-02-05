@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Sanyam Jain
 
-<!--
-**sanyamjain-2006/sanyamjain-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+🤖 Aspiring Machine Learning Engineer  
+📍 India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Building real-world ML projects
+- Learning Data Structures & Algorithms
+- Focused on ML Internship in 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Git
+
+## 📌 Featured Projects
+- Credit Card Fraud Detection
+- Gold Price Prediction (Regression)
+- Heart Disease Prediction
+- Wine Quality Classification
+
+## 📈 Current Focus
+- Model Optimization
+- Hyperparameter Tuning
+- Deployment with Streamlit
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sanyam-jain10/
+- Email: sanyamjain04102006@gmail.com
